@@ -6,3 +6,7 @@
     <title>PHP</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
