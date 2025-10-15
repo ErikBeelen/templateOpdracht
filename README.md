@@ -1,2 +1,2 @@
-# templateOpdracht
+# Workshop_Opdracht
 Schoolopdracht mappenstructuur
